@@ -1,0 +1,40 @@
+.container{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+  margin-top: 50px
+}
+.form{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.editButton{
+  border: none;
+  border-radius: 10px;
+  background-color: skyblue;
+  color: white;
+  padding: 5px 20px;
+}
+.deleteButton{
+  border: none;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+  padding: 5px 20px;
+}
+.createButton{
+  border: none;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+  padding: 5px 20px;
+}
+.cancelButton{
+  border: none;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+  padding: 5px 20px;
+}
